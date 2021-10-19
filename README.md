@@ -1,2 +1,1 @@
-# personal_info
-Putting my resume online :)
+# Putting my resume online :)
